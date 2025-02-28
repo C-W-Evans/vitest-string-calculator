@@ -39,6 +39,6 @@ describe('test the funtion add'), () => {
   })
   
   it('returns 8 for "1\n"', () => {
-    expect(() => add('-2, -4')).toThrowError('negatives not allowed. [-2, -4]')
+    expect(() => add('-2, -4')).toThrowError('negatives not allowed. [-2, -4]')q
   });
 }
