@@ -1,6 +1,6 @@
 name: 'Test'
 on: 
-  push_request:
+  push:
 
 jobs:
   test:
